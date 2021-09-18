@@ -5,3 +5,5 @@ First install xampp and then start apache and mysql.
 Then go to localhost/phpmyadmin and create a database name as tourism_db and then import the sql file
 
 Note:- for database connection i have used port 3307 so make sure your xampp server is on the same port.
+
+It is an web based bike rental system. It is based on PHP, HTML, CSS, JS and MySQL DB .
